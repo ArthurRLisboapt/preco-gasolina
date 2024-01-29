@@ -14,3 +14,5 @@ plt.title('Vendas de Gasolina por Dia')
 plt.xlabel('Dia')
 plt.ylabel('Preço de Venda')
 plt.savefig('gasolina.png')
+
+versão alterada
